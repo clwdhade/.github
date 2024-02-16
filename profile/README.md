@@ -1,11 +1,12 @@
 # <img src="./profile/images/original.png" width="30px"> ClwdHade Solutions
 
 Welcome to **ClwdHade Solutions!** We are a dynamic and innovative software development company dedicated to providing tailored solutions to meet your business needs.
-
-## About Us
+<details>
+ <summary><h3>About Us</h3></summary>
 
 At **ClwdHade Solutions**, we specialize in crafting bespoke software applications that empower businesses to thrive in the digital age. Our team of skilled professionals is committed to delivering excellence in every project, leveraging the latest technologies and industry best practices.
 
+</details>
 <details>
  <summary> <h3>Our Services </h3></summary>
   
